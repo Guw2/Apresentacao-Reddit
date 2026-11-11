@@ -1,0 +1,58 @@
+REDDIT: O UNIVERSO DAS COMUNIDADES
+Apresentação universitária interativa, em formato web
+
+COMO ABRIR
+1. Extraia o arquivo ZIP, se você recebeu a versão compactada.
+2. Abra o arquivo index.html com Chrome, Edge, Firefox ou Opera.
+3. O site funciona sem conexão com a internet.
+4. Para projetar em uma apresentação, pressione F ou F11 para tela cheia.
+
+COMANDOS
+ESPAÇO / seta para direita = próxima revelação ou próximo capítulo (sem disparos repetidos ao segurar).
+SHIFT + ESPAÇO / seta para esquerda = voltar uma revelação.
+N = próximo capítulo imediatamente (sem todas as revelações).
+G = visão geral da abertura e dos dez capítulos.
+F = alternar tela cheia.
+? = ajuda.
+ESC = fechar janelas.
+
+ROLAGEM SUAVE
+Ao revelar um comentário que ultrapasse a área visível, o site rola automaticamente
+com aceleração e desaceleração suaves (aprox. 1,15 segundo).
+Você pode interromper a animação usando o mouse ou o toque.
+
+O QUE ESTA APRESENTAÇÃO CONTÉM
+00. Slide de apresentação: Gustavo Farias da Silva e Micael da Silva Borges
+01. Capa e conceito central
+02. Fundação, Condé Nast e abertura de capital
+03. Comunidades, posts, mídia e debates
+04. Perfil dos usuários com dado da pesquisa Pew 2025 (EUA)
+05. Subreddit, upvote, downvote e karma
+06. AMA, OP, mod e TL;DR em comentários encadeados
+07. Snoo, AMA de 2012 e GameStop, com gráfico histórico
+08. Ensino de línguas, pesquisa e pensamento crítico
+09. Turma fictícia: aula invertida e verificação de fontes com imagem anexada
+10. Encerramento visual sem comentários finais
+
+OBSERVAÇÕES
+- A experiência foi feita em HTML/CSS/JavaScript, não em PowerPoint.
+- Os posts e usuários são FICTÍCIOS: representam uma simulação educacional.
+- A interface foi inspirada no Reddit (cores, posts, votos e comunidades).
+- Não é um produto oficial ou endossado pelo Reddit.
+- O único gráfico com dados históricos utiliza uma tabela CC0 da Wikimedia Commons.
+- O infográfico educativo anexado e as ilustrações foram criados para este projeto.
+- O conteúdo não solicita dados pessoais e não depende de APIs externas.
+- Você pode editar o index.html para trocar textos ou cores.
+
+FONTES PRINCIPAIS
+• Universidade da Virgínia — história: https://innovates.virginia.edu/companies/reddit
+• Reddit Inc. — marca e mascote: https://redditinc.com/brand
+• Reddit Help — karma: https://support.reddithelp.com/hc/pt-br/articles/204511829-O-que-%C3%A9-karma
+• Reddit Help — votos: https://support.reddithelp.com/hc/en-us/articles/7419626610708-What-are-upvotes-and-downvotes
+• Pew Research Center — americanos e redes sociais, 2025: https://www.pewresearch.org/internet/2025/11/20/americans-social-media-use-2025/
+• Gráfico GameStop, dados CC0: https://commons.wikimedia.org/wiki/Data:GME_closing_price_jan-feb_2021.tab
+• Exemplo histórico de AMA: https://www.reddit.com/r/IAmA/comments/z1c9z/i_am_barack_obama_president_of_the_united_states/
+
+DICA PARA APRESENTAR
+Comece pela abertura com os nomes dos apresentadores. Depois, vá revelando os comentários de cada post como se a discussão estivesse acontecendo
+naquele momento. Nas partes 7 e 9, a resposta final traz uma visualização ou imagem.
